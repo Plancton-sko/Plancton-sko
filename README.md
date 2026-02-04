@@ -48,11 +48,3 @@ Educational platform for a non-profit organization that prepares students for EN
 🔹 **Responsive Landing Pages**  
 Personal and fictional projects focused on UI/UX, responsiveness, and performance.  
 **Tech:** SvelteKit, CSS, Figma
-
----
-
-## 📚 Currently Learning
-- Backend architecture with NestJS
-- Authentication & security (JWT, best practices)
-- Databases and performance optimization
-- Clean Code & software design principles
