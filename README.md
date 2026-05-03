@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
 
 ### ⚙️ Frameworks & Libraries
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-333?style=for-the-badge&logo=svelte)
