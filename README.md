@@ -43,7 +43,7 @@
 
 🔹 **GEDUC Website**  
 Educational platform for a non-profit organization that prepares students for ENEM and academic olympiads.  
-**Tech:** SvelteKit, TypeScript, Git, Vercel  
+**Tech:** SvelteKit, TypeScript, Git 
 👉 [Repository](https://github.com/lucasffa/geduc-site)
 
 🔹 **Responsive Landing Pages**  
