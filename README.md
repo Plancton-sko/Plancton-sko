@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux)
-![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma)
 
 ---
 
